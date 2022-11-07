@@ -1,7 +1,7 @@
 {
   "name": "proyectofinal",
   "version": "1.0.0",
-  "description": "Pre Entrega 3",
+  "description": "Proyecto Final",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
