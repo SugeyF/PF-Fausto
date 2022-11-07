@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=DM+Serif+Display&family=Lora&family=Playfair+Display+SC&display=swap');
+
+.foot-btn {
+    &:hover {
+      animation: foot-mov .3s ease 0s 1 normal forwards;
+      color: $color-link-hover;
+      text-decoration: none;
+    }
+}
